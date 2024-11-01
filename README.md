@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZenTonia2k5
-- 👀 I’m interested in Game, Automation.
-- 🌱 I’m currently learning in University
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding, Game, Automation, ...
+- 🌱 I’m currently learning in Ho Chi Minh City University of Technology- VietNam National School (HCMUT-VNU or BKU)
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me : tititai13@gmail.com
 - 😄 Pronouns: T
 - ⚡ Fun fact: :3
